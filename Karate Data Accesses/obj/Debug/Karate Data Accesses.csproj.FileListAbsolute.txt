@@ -1,0 +1,6 @@
+C:\Users\pro19\source\repos\Karate Data Accesses\bin\Debug\Karate Data Accesses.dll
+C:\Users\pro19\source\repos\Karate Data Accesses\bin\Debug\Karate Data Accesses.pdb
+C:\Users\pro19\source\repos\Karate Data Accesses\obj\Debug\Karate Data Accesses.csproj.AssemblyReference.cache
+C:\Users\pro19\source\repos\Karate Data Accesses\obj\Debug\Karate Data Accesses.csproj.CoreCompileInputs.cache
+C:\Users\pro19\source\repos\Karate Data Accesses\obj\Debug\Karate Data Accesses.dll
+C:\Users\pro19\source\repos\Karate Data Accesses\obj\Debug\Karate Data Accesses.pdb

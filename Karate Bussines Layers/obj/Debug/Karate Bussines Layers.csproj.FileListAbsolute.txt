@@ -1,0 +1,9 @@
+C:\Users\pro19\source\repos\Karate Bussines Layers\bin\Debug\Karate Bussines Layers.dll
+C:\Users\pro19\source\repos\Karate Bussines Layers\bin\Debug\Karate Bussines Layers.pdb
+C:\Users\pro19\source\repos\Karate Bussines Layers\bin\Debug\Karate Data Accesses.dll
+C:\Users\pro19\source\repos\Karate Bussines Layers\bin\Debug\Karate Data Accesses.pdb
+C:\Users\pro19\source\repos\Karate Bussines Layers\obj\Debug\Karate Bussines Layers.csproj.AssemblyReference.cache
+C:\Users\pro19\source\repos\Karate Bussines Layers\obj\Debug\Karate Bussines Layers.csproj.CoreCompileInputs.cache
+C:\Users\pro19\source\repos\Karate Bussines Layers\obj\Debug\Karate B.49358195.Up2Date
+C:\Users\pro19\source\repos\Karate Bussines Layers\obj\Debug\Karate Bussines Layers.dll
+C:\Users\pro19\source\repos\Karate Bussines Layers\obj\Debug\Karate Bussines Layers.pdb
